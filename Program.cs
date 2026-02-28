@@ -1,4 +1,4 @@
-﻿using System.Threading;
+using System.Threading;
 
 namespace PROJECT_REPO
 {
@@ -27,9 +27,9 @@ namespace PROJECT_REPO
             TimeSpan timeOut = TimeSpan.Parse(Console.ReadLine());
 
 
+            
 
-
-            Console.WriteLine("\n===== RECORD =====");
+            Console.WriteLine("\n RECORD ");
             Console.WriteLine("Employee ID: " + id);
             Console.WriteLine("Employee Name: " + name);
             Console.WriteLine("Time In: " + timeIn);
