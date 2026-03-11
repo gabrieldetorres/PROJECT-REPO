@@ -8,4 +8,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ClassLibrary1\Time-in_Time-out.csproj" />
+    <ProjectReference Include="..\Overtime\Overtime.csproj" />
+  </ItemGroup>
+
 </Project>
