@@ -9,8 +9,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ClassLibrary1\Time-in_Time-out.csproj" />
     <ProjectReference Include="..\Overtime\Overtime.csproj" />
+    <ProjectReference Include="..\TimeIn_TimeOut\TimeIn_TimeOut.csproj" />
   </ItemGroup>
 
 </Project>

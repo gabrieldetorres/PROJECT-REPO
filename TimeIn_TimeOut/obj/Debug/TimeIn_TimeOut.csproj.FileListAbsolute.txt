@@ -1,0 +1,6 @@
+C:\Users\DE TORRES\Desktop\2\PROJECT-REPO\TimeIn_TimeOut\bin\Debug\TimeIn_TimeOut.dll
+C:\Users\DE TORRES\Desktop\2\PROJECT-REPO\TimeIn_TimeOut\bin\Debug\TimeIn_TimeOut.pdb
+C:\Users\DE TORRES\Desktop\2\PROJECT-REPO\TimeIn_TimeOut\obj\Debug\TimeIn_TimeOut.csproj.AssemblyReference.cache
+C:\Users\DE TORRES\Desktop\2\PROJECT-REPO\TimeIn_TimeOut\obj\Debug\TimeIn_TimeOut.csproj.CoreCompileInputs.cache
+C:\Users\DE TORRES\Desktop\2\PROJECT-REPO\TimeIn_TimeOut\obj\Debug\TimeIn_TimeOut.dll
+C:\Users\DE TORRES\Desktop\2\PROJECT-REPO\TimeIn_TimeOut\obj\Debug\TimeIn_TimeOut.pdb
