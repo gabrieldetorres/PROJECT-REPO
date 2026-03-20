@@ -1,11 +1,16 @@
-using System.Threading;
-using TimeIn_TimeOut;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 using Overtime;
+using TimeIn_TimeOut;
 
-namespace PROJECT_REPO
+namespace ProjectRepo
 {
-    internal class Program
+    public class Class0
     {
+
         static TimeSpan time_in = new TimeSpan(9, 0, 0);
         static TimeSpan time_out = new TimeSpan(17, 0, 0);
 
@@ -52,4 +57,6 @@ namespace PROJECT_REPO
 
     }
 }
+
+
 

@@ -1,0 +1,123 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Overtime/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "TimeIn_TimeOut": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Overtime.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Overtime.dll": {}
+        }
+      },
+      "TimeIn_TimeOut/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/TimeIn_TimeOut.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TimeIn_TimeOut.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Overtime/1.0.0": {
+      "type": "project",
+      "path": "../../Overtime/Overtime.csproj",
+      "msbuildProject": "../../Overtime/Overtime.csproj"
+    },
+    "TimeIn_TimeOut/1.0.0": {
+      "type": "project",
+      "path": "../../TimeIn_TimeOut/TimeIn_TimeOut.csproj",
+      "msbuildProject": "../../TimeIn_TimeOut/TimeIn_TimeOut.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Overtime >= 1.0.0",
+      "TimeIn_TimeOut >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\DE TORRES\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\DE TORRES\\Desktop\\2\\PROJECT-REPO\\ProjectRepo\\ProjectRepo\\ProjectRepo.csproj",
+      "projectName": "ProjectRepo",
+      "projectPath": "C:\\Users\\DE TORRES\\Desktop\\2\\PROJECT-REPO\\ProjectRepo\\ProjectRepo\\ProjectRepo.csproj",
+      "packagesPath": "C:\\Users\\DE TORRES\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\DE TORRES\\Desktop\\2\\PROJECT-REPO\\ProjectRepo\\ProjectRepo\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\DE TORRES\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\DE TORRES\\Desktop\\2\\PROJECT-REPO\\Overtime\\Overtime.csproj": {
+              "projectPath": "C:\\Users\\DE TORRES\\Desktop\\2\\PROJECT-REPO\\Overtime\\Overtime.csproj"
+            },
+            "C:\\Users\\DE TORRES\\Desktop\\2\\PROJECT-REPO\\TimeIn_TimeOut\\TimeIn_TimeOut.csproj": {
+              "projectPath": "C:\\Users\\DE TORRES\\Desktop\\2\\PROJECT-REPO\\TimeIn_TimeOut\\TimeIn_TimeOut.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "10.0.200"
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.200/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

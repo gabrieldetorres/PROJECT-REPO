@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../../Overtime/Overtime.csproj" Id="cde23ec3-6bfd-48de-a6bf-e384e150b5ff" />
+  <Project Path="../../TimeIn_TimeOut/TimeIn_TimeOut.csproj" Id="cd8445da-1795-49a4-ab80-b179c219c63d" />
+  <Project Path="ProjectRepo.csproj" />
+</Solution>

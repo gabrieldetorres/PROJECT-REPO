@@ -3,14 +3,13 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net8.0</TargetFramework>
-    <RootNamespace>PROJECT_REPO</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Overtime\Overtime.csproj" />
-    <ProjectReference Include="..\TimeIn_TimeOut\TimeIn_TimeOut.csproj" />
+    <ProjectReference Include="..\..\Overtime\Overtime.csproj" />
+    <ProjectReference Include="..\..\TimeIn_TimeOut\TimeIn_TimeOut.csproj" />
   </ItemGroup>
 
 </Project>
