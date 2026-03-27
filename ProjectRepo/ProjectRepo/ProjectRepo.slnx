@@ -1,5 +1,7 @@
 <Solution>
-  <Project Path="../../Overtime/Overtime.csproj" Id="cde23ec3-6bfd-48de-a6bf-e384e150b5ff" />
-  <Project Path="../../TimeIn_TimeOut/TimeIn_TimeOut.csproj" Id="cd8445da-1795-49a4-ab80-b179c219c63d" />
+  <Project Path="Models/Models.csproj" Id="6d40e99a-e573-46b3-b7d1-3fb8edfeb87f" />
+  <Project Path="OvertimeBl/OvertimeBl.csproj" Id="06879546-6fd9-428d-a828-2189ecf985fb" />
+  <Project Path="OvertimeDL/OvertimeDL.csproj" Id="8091629c-85cd-4293-adc3-07a6e810b51d" />
+  <Project Path="OvertimeUi/OvertimeUi.csproj" Id="d7d08190-74db-494f-a8c8-2966803bc32c" />
   <Project Path="ProjectRepo.csproj" />
 </Solution>

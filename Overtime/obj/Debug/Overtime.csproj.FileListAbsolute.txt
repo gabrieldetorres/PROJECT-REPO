@@ -1,9 +1,0 @@
-C:\Users\DE TORRES\Desktop\2\PROJECT-REPO\Overtime\bin\Debug\Overtime.dll
-C:\Users\DE TORRES\Desktop\2\PROJECT-REPO\Overtime\bin\Debug\Overtime.pdb
-C:\Users\DE TORRES\Desktop\2\PROJECT-REPO\Overtime\bin\Debug\TimeIn_TimeOut.dll
-C:\Users\DE TORRES\Desktop\2\PROJECT-REPO\Overtime\bin\Debug\TimeIn_TimeOut.pdb
-C:\Users\DE TORRES\Desktop\2\PROJECT-REPO\Overtime\obj\Debug\Overtime.csproj.AssemblyReference.cache
-C:\Users\DE TORRES\Desktop\2\PROJECT-REPO\Overtime\obj\Debug\Overtime.csproj.CoreCompileInputs.cache
-C:\Users\DE TORRES\Desktop\2\PROJECT-REPO\Overtime\obj\Debug\Overtime.csproj.Up2Date
-C:\Users\DE TORRES\Desktop\2\PROJECT-REPO\Overtime\obj\Debug\Overtime.dll
-C:\Users\DE TORRES\Desktop\2\PROJECT-REPO\Overtime\obj\Debug\Overtime.pdb

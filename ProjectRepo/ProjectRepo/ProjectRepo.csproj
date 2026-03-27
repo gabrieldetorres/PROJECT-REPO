@@ -8,8 +8,24 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\Overtime\Overtime.csproj" />
-    <ProjectReference Include="..\..\TimeIn_TimeOut\TimeIn_TimeOut.csproj" />
+    <Compile Remove="Models\**" />
+    <Compile Remove="OvertimeBl\**" />
+    <Compile Remove="OvertimeDL\**" />
+    <Compile Remove="OvertimeUi\**" />
+    <EmbeddedResource Remove="Models\**" />
+    <EmbeddedResource Remove="OvertimeBl\**" />
+    <EmbeddedResource Remove="OvertimeDL\**" />
+    <EmbeddedResource Remove="OvertimeUi\**" />
+    <None Remove="Models\**" />
+    <None Remove="OvertimeBl\**" />
+    <None Remove="OvertimeDL\**" />
+    <None Remove="OvertimeUi\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="Models\Models.csproj" />
+    <ProjectReference Include="OvertimeBl\OvertimeBl.csproj" />
+    <ProjectReference Include="OvertimeDL\OvertimeDL.csproj" />
   </ItemGroup>
 
 </Project>

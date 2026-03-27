@@ -3,8 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\DE TORRES\\Desktop\\2\\PROJECT-REPO\\ProjectRepo\\ProjectRepo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{65E66635-0D1C-47D1-A62F-769DC7BF5AFC}|ProjectRepo.csproj|c:\\users\\de torres\\desktop\\2\\project-repo\\projectrepo\\projectrepo\\class0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65E66635-0D1C-47D1-A62F-769DC7BF5AFC}|ProjectRepo.csproj|solutionrelative:class0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8091629C-85CD-4293-ADC3-07A6E810B51D}|OvertimeDL\\OvertimeDL.csproj|c:\\users\\de torres\\desktop\\2\\project-repo\\projectrepo\\projectrepo\\overtimedl\\jsonclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8091629C-85CD-4293-ADC3-07A6E810B51D}|OvertimeDL\\OvertimeDL.csproj|solutionrelative:overtimedl\\jsonclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06879546-6FD9-428D-A828-2189ECF985FB}|OvertimeBl\\OvertimeBl.csproj|c:\\users\\de torres\\desktop\\2\\project-repo\\projectrepo\\projectrepo\\overtimebl\\overtimeclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06879546-6FD9-428D-A828-2189ECF985FB}|OvertimeBl\\OvertimeBl.csproj|solutionrelative:overtimebl\\overtimeclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8091629C-85CD-4293-ADC3-07A6E810B51D}|OvertimeDL\\OvertimeDL.csproj|c:\\users\\de torres\\desktop\\2\\project-repo\\projectrepo\\projectrepo\\overtimedl\\sqldbdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8091629C-85CD-4293-ADC3-07A6E810B51D}|OvertimeDL\\OvertimeDL.csproj|solutionrelative:overtimedl\\sqldbdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8091629C-85CD-4293-ADC3-07A6E810B51D}|OvertimeDL\\OvertimeDL.csproj|c:\\users\\de torres\\desktop\\2\\project-repo\\projectrepo\\projectrepo\\overtimedl\\inmemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8091629C-85CD-4293-ADC3-07A6E810B51D}|OvertimeDL\\OvertimeDL.csproj|solutionrelative:overtimedl\\inmemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7D08190-74DB-494F-A8C8-2966803BC32C}|OvertimeUi\\OvertimeUi.csproj|c:\\users\\de torres\\desktop\\2\\project-repo\\projectrepo\\projectrepo\\overtimeui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7D08190-74DB-494F-A8C8-2966803BC32C}|OvertimeUi\\OvertimeUi.csproj|solutionrelative:overtimeui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8091629C-85CD-4293-ADC3-07A6E810B51D}|OvertimeDL\\OvertimeDL.csproj|c:\\users\\de torres\\desktop\\2\\project-repo\\projectrepo\\projectrepo\\overtimedl\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8091629C-85CD-4293-ADC3-07A6E810B51D}|OvertimeDL\\OvertimeDL.csproj|solutionrelative:overtimedl\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8091629C-85CD-4293-ADC3-07A6E810B51D}|OvertimeDL\\OvertimeDL.csproj|c:\\users\\de torres\\desktop\\2\\project-repo\\projectrepo\\projectrepo\\overtimedl\\inc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8091629C-85CD-4293-ADC3-07A6E810B51D}|OvertimeDL\\OvertimeDL.csproj|solutionrelative:overtimedl\\inc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D40E99A-E573-46B3-B7D1-3FB8EDFEB87F}|Models\\Models.csproj|c:\\users\\de torres\\desktop\\2\\project-repo\\projectrepo\\projectrepo\\models\\ovetimeclass3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D40E99A-E573-46B3-B7D1-3FB8EDFEB87F}|Models\\Models.csproj|solutionrelative:models\\ovetimeclass3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +47,105 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Class0.cs",
-              "DocumentMoniker": "C:\\Users\\DE TORRES\\Desktop\\2\\PROJECT-REPO\\ProjectRepo\\ProjectRepo\\Class0.cs",
-              "RelativeDocumentMoniker": "Class0.cs",
-              "ToolTip": "C:\\Users\\DE TORRES\\Desktop\\2\\PROJECT-REPO\\ProjectRepo\\ProjectRepo\\Class0.cs",
-              "RelativeToolTip": "Class0.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Title": "JsonClass.cs",
+              "DocumentMoniker": "C:\\Users\\DE TORRES\\Desktop\\2\\PROJECT-REPO\\ProjectRepo\\ProjectRepo\\OvertimeDL\\JsonClass.cs",
+              "RelativeDocumentMoniker": "OvertimeDL\\JsonClass.cs",
+              "ToolTip": "C:\\Users\\DE TORRES\\Desktop\\2\\PROJECT-REPO\\ProjectRepo\\ProjectRepo\\OvertimeDL\\JsonClass.cs",
+              "RelativeToolTip": "OvertimeDL\\JsonClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-20T09:58:20.301Z",
+              "WhenOpened": "2026-03-27T09:33:33.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataService.cs",
+              "DocumentMoniker": "C:\\Users\\DE TORRES\\Desktop\\2\\PROJECT-REPO\\ProjectRepo\\ProjectRepo\\OvertimeDL\\DataService.cs",
+              "RelativeDocumentMoniker": "OvertimeDL\\DataService.cs",
+              "ToolTip": "C:\\Users\\DE TORRES\\Desktop\\2\\PROJECT-REPO\\ProjectRepo\\ProjectRepo\\OvertimeDL\\DataService.cs",
+              "RelativeToolTip": "OvertimeDL\\DataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T09:09:40.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Inc.cs",
+              "DocumentMoniker": "C:\\Users\\DE TORRES\\Desktop\\2\\PROJECT-REPO\\ProjectRepo\\ProjectRepo\\OvertimeDL\\Inc.cs",
+              "RelativeDocumentMoniker": "OvertimeDL\\Inc.cs",
+              "ToolTip": "C:\\Users\\DE TORRES\\Desktop\\2\\PROJECT-REPO\\ProjectRepo\\ProjectRepo\\OvertimeDL\\Inc.cs",
+              "RelativeToolTip": "OvertimeDL\\Inc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T09:07:11.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SQLdbdata.cs",
+              "DocumentMoniker": "C:\\Users\\DE TORRES\\Desktop\\2\\PROJECT-REPO\\ProjectRepo\\ProjectRepo\\OvertimeDL\\SQLdbdata.cs",
+              "RelativeDocumentMoniker": "OvertimeDL\\SQLdbdata.cs",
+              "ToolTip": "C:\\Users\\DE TORRES\\Desktop\\2\\PROJECT-REPO\\ProjectRepo\\ProjectRepo\\OvertimeDL\\SQLdbdata.cs",
+              "RelativeToolTip": "OvertimeDL\\SQLdbdata.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwCAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T08:34:14.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DE TORRES\\Desktop\\2\\PROJECT-REPO\\ProjectRepo\\ProjectRepo\\OvertimeUi\\Program.cs",
+              "RelativeDocumentMoniker": "OvertimeUi\\Program.cs",
+              "ToolTip": "C:\\Users\\DE TORRES\\Desktop\\2\\PROJECT-REPO\\ProjectRepo\\ProjectRepo\\OvertimeUi\\Program.cs",
+              "RelativeToolTip": "OvertimeUi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T07:40:50.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OvertimeClass.cs",
+              "DocumentMoniker": "C:\\Users\\DE TORRES\\Desktop\\2\\PROJECT-REPO\\ProjectRepo\\ProjectRepo\\OvertimeBl\\OvertimeClass.cs",
+              "RelativeDocumentMoniker": "OvertimeBl\\OvertimeClass.cs",
+              "ToolTip": "C:\\Users\\DE TORRES\\Desktop\\2\\PROJECT-REPO\\ProjectRepo\\ProjectRepo\\OvertimeBl\\OvertimeClass.cs",
+              "RelativeToolTip": "OvertimeBl\\OvertimeClass.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwEAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T07:38:13.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OvetimeClass3.cs",
+              "DocumentMoniker": "C:\\Users\\DE TORRES\\Desktop\\2\\PROJECT-REPO\\ProjectRepo\\ProjectRepo\\Models\\OvetimeClass3.cs",
+              "RelativeDocumentMoniker": "Models\\OvetimeClass3.cs",
+              "ToolTip": "C:\\Users\\DE TORRES\\Desktop\\2\\PROJECT-REPO\\ProjectRepo\\ProjectRepo\\Models\\OvetimeClass3.cs",
+              "RelativeToolTip": "Models\\OvetimeClass3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T07:37:12.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InMemory.cs",
+              "DocumentMoniker": "C:\\Users\\DE TORRES\\Desktop\\2\\PROJECT-REPO\\ProjectRepo\\ProjectRepo\\OvertimeDL\\InMemory.cs",
+              "RelativeDocumentMoniker": "OvertimeDL\\InMemory.cs",
+              "ToolTip": "C:\\Users\\DE TORRES\\Desktop\\2\\PROJECT-REPO\\ProjectRepo\\ProjectRepo\\OvertimeDL\\InMemory.cs",
+              "RelativeToolTip": "OvertimeDL\\InMemory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T07:35:00.963Z",
               "EditorCaption": ""
             }
           ]

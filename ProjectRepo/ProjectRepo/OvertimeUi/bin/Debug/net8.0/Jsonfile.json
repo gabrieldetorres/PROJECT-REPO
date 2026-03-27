@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 100,
+    "Name": "Gab",
+    "TimeIn": "09:00:00",
+    "Timeout": "17:00:00"
+  },
+  {
+    "Id": 30,
+    "Name": "Gabriel",
+    "TimeIn": "08:00:00",
+    "Timeout": "10:00:00"
+  },
+  {
+    "Id": 30,
+    "Name": "Gabriel",
+    "TimeIn": "08:00:00",
+    "Timeout": "10:00:00"
+  },
+  {
+    "Id": 3,
+    "Name": "Vic",
+    "TimeIn": "10:00:00",
+    "Timeout": "15:00:00"
+  },
+  {
+    "Id": 3,
+    "Name": "Vic",
+    "TimeIn": "10:00:00",
+    "Timeout": "15:00:00"
+  }
+]
