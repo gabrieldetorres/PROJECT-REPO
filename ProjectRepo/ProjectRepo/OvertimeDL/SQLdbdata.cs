@@ -18,28 +18,20 @@ namespace OvertimeDL
         public SQLdbdata()
         {
             sqlConnection = new SqlConnection(connectionString);
-            AddSeeds();
+            
         }
-        private void AddSeeds()
+       
+
+        public void Add(OvetimeClass3 c33)
         {
             var existing = GetTime();
 
-            if (!existing.Any(x => x.Id == 1000))
+            if (existing.Any(x => x.Id == c33.Id))
             {
-                OvetimeClass3 c3 = new OvetimeClass3
-                {
-                    Id = 1000,
-                    Name = "Gab",
-                    TimeIn = TimeSpan.FromHours(9),
-                    Timeout = TimeSpan.FromHours(17)
-                };
-
-                Add(c3);
+                Console.WriteLine("Duplicate ID detected. Skipping insert.");
+                return;
             }
-        }
-        
-        public void Add(OvetimeClass3 c33)
-        {
+
             var insertStatement = "INSERT INTO Employee_tbl VALUES (@ID, @Name, @TimeIn, @Timeout)";
 
             SqlCommand insertCommand = new SqlCommand(insertStatement, sqlConnection);
@@ -50,9 +42,7 @@ namespace OvertimeDL
             insertCommand.Parameters.AddWithValue("@Timeout", c33.Timeout);
 
             sqlConnection.Open();
-
             insertCommand.ExecuteNonQuery();
-
             sqlConnection.Close();
         }
 
@@ -67,6 +57,7 @@ namespace OvertimeDL
             SqlDataReader reader = selectCommand.ExecuteReader();
 
             var c33 = new List<OvetimeClass3>();
+           
 
             while (reader.Read())
             {

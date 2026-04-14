@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OvertimeUi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0e23e315ab8ec5a91503685bb68ae2c061d00ac")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8f8a67ed755705fd6624dc563821a85ed2c8cb4")]
 [assembly: System.Reflection.AssemblyProductAttribute("OvertimeUi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OvertimeUi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
